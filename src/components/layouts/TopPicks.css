@@ -1,0 +1,26 @@
+.today-pick .content-inner {
+    display: flex;
+    display: -webkit-box;
+    display: -ms-flexbox;
+    display: -webkit-flex;
+    flex-wrap: wrap;
+    margin-left: -11px;
+    margin-right: 11px;
+}
+.today-pick .content-inner .sc-card-product {
+    width: calc(20% - 26px);
+    margin-left: 26px;
+    margin-bottom: 22px;
+}
+.sc-card-product.menu_card.style-h7 .meta-info.style {
+    margin-bottom: 11px;
+}
+.sc-card-article .meta-info, .sc-card-article .meta-info .author, .sc-card-product .meta-info, .sc-card-product .meta-info .author {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+.sc-card-product .card-media img {
+    width: 100%;
+}
+ 
